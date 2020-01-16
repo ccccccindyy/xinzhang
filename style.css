@@ -1,0 +1,37 @@
+body {
+    background-color: lightseagreen;
+    font-family: "Courier New", Monospace, serif;
+  }
+
+.home {
+    color: black;
+    font-weight: bold;
+    padding-top: 150px;
+}
+
+.home .container {
+    background-color:rgba(38, 199, 118, 0.2);
+    color: lightgrey;
+}
+.home .img {
+    opacity: 0.1;
+    color: #fff;
+    background-image: url("https://scontent-dub4-1.xx.fbcdn.net/v/t1.0-9/42417361_1117308655090786_4602139929626017792_n.jpg?_nc_cat=108&_nc_ohc=NQVz0_oQsJ4AX-WpGvU&_nc_ht=scontent-dub4-1.xx&oh=be2753ae4f1b1f1610a1918f55573f37&oe=5E9B9F09");
+    width: 100%;
+    height: 100%;
+    background-size: cover;    
+    background-repeat:   no-repeat;
+    background-position: center center;   
+    position:absolute;
+    top:0;
+    left:0;
+    height: 450px;
+
+}
+.home h1 {
+    font-weight: bold;
+}
+
+.section {
+    background-color:rgba(38, 199, 118, 0.2);
+}
